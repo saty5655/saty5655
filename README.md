@@ -1,5 +1,10 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI & Machine Learning projects with real-world impact<br>Satellite imagery–based applications (solar panel inspection, vegetation analysis)<br>Data analysis and visualization using Python<br><br>👯 I’m looking to collaborate on<br>Machine Learning & Deep Learning projects<br>Computer Vision tasks (CNNs, image classification, remote sensing)<br>Open-source projects related to data science or AI<br><br>🤝 I’m looking for help with<br>Improving model performance and optimization<br>Deploying ML models (Streamlit, Flask, FastAPI)<br>Writing research-oriented and production-ready ML code<br><br>🌱 I’m currently learning<br>Advanced Deep Learning (CNNs, transfer learning, model tuning)<br>Time series analysis and statistical modeling<br>Applied AI using real datasets and case studies<br><br>💬 Ask me about<br>Python, Pandas, NumPy, Matplotlib<br>Machine Learning & basic Deep Learning concepts<br>Sentiment analysis, web scraping, and data preprocessing<br><br>⚡ Fun fact<br>I enjoy turning academic concepts into practical AI projects 
+## 👋 About Me
+
+I’m currently working on **AI & Machine Learning projects with real-world impact 🤖**, particularly **satellite imagery–based applications 🛰️** such as solar panel inspection ☀️ and vegetation analysis 🌱, along with **data analysis and visualization using Python 📊**. I’m looking to collaborate on **Machine Learning & Deep Learning projects 👯**, **computer vision tasks (CNNs, image classification, remote sensing) 👁️‍🗨️**, and **open-source initiatives in data science or AI 🌍**. I’m also seeking help with **improving model performance and optimization ⚙️**, **deploying ML models using Streamlit, Flask, or FastAPI 🚀**, and **writing research-oriented as well as production-ready ML code 🧠**. Currently, I’m learning **advanced deep learning (CNNs, transfer learning, model tuning) 📚**, **time series analysis and statistical modeling ⏱️**, and **applied AI using real datasets and case studies 🧪**.  
+
+💬 Ask me about **Python, Pandas, NumPy, Matplotlib**, **Machine Learning & basic Deep Learning concepts**, **sentiment analysis, web scraping, and data preprocessing**.  
+⚡ **Fun fact:** I enjoy turning academic concepts into practical AI projects ✨
+
 
 
 ## 🌐 Socials:
